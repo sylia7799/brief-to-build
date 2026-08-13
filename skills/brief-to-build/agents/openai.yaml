@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brief to Build"
+  short_description: "把模糊需求变成可确认、可执行、可验收的项目基线"
+  default_prompt: "Use $brief-to-build 分析我提供的项目材料，形成需求基线、执行计划与验收机制，并在正式实施前等待我确认。"
